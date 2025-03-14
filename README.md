@@ -19,28 +19,15 @@ W PRZYSZŁOŚCI
 -zrobić płynniejszą zmianę kolorów
 -zastosować coś w rodzaju filtru na sensorze ultradźwięków żeby losowe wartości odbiegające od normy nie mogły się zainicjować
 
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <title>Schematy Arduino</title>
-    <style>
-        img {
-            display: block;
-            margin: 0 auto;
-            width: 700px; 
-            margin-bottom: 10px;
-        }
-        p {
-            text-align: center; 
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-    <img src="https://github.com/user-attachments/assets/53e30d61-1325-430a-ac37-ba3ae35e4673"/>
-    <p>Rys. 1 Układ breadboard z Arduino z HC-SR04</p>
-    <img src="https://github.com/user-attachments/assets/d84d4ad7-2b21-41c9-9ee2-499608975e9b"/>
-    <p>Rys. 1.2 Schemat elektryczny Arduino z HC-SR04</p>
-</body>
-</html>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53e30d61-1325-430a-ac37-ba3ae35e4673" width="700"/>
+  <br />
+  <em>Rys. 1 Układ breadboard z Arduino z HC-SR04</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d84d4ad7-2b21-41c9-9ee2-499608975e9b" width="700"/>
+  <br />
+  <em>Rys. 1.2 Schemat elektryczny Arduino z HC-SR04</em>
+</p>
+
